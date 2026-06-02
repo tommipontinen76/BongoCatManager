@@ -6,7 +6,7 @@
 #define MyAppVersion "1.0"
 #define MyAppPublisher "Tommi Pöntinen"
 #define MyAppURL "https://github.com/tommipontinen76/BongoCatManager"
-#define MyAppExeName "BongoCatManager.exe"
+#define MyAppExeName "BongoCatManager-Setup.exe"
 
 [Setup]
 ; NOTE: The value of AppId uniquely identifies this application. Do not use the same AppId value in installers for other applications.
