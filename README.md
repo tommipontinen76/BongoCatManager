@@ -2,6 +2,8 @@
 
 > **Fork notice:** This project is a fork of the original [BongoCatClicker](https://github.com/Chiqui89/BongoCatClicker). Big thanks to the original author for the foundation! This fork expands in a different direction with broader automation and management features.
 
+> **Fork of a fork notice: :D** This is just an installer for BongoCatManager, nothing else, don't submit issues or pull requests unless it's about the installer for some reason.
+
 A tool that automatically manages Bongo Cat, including auto-pressing keys and auto-redeeming emojis and accessories.
 
 ## Requirements
